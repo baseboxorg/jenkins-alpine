@@ -14,7 +14,8 @@ jenkins in Docker using the alpine image, updated with a few packages i need for
 
 ### Adding Packages
 
-    Adding a package you just need to add a line: ` apk add <your package name> `
+Adding a package you just need to add a line: ` apk add <your package name> `
+    
 * [Alpine Packages](http://pkgs.alpinelinux.org/packages)
 
 ### Installed Packages
